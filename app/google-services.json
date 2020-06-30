@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1057689573047",
+    "firebase_url": "https://pruebacrudandroid.firebaseio.com",
+    "project_id": "pruebacrudandroid",
+    "storage_bucket": "pruebacrudandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057689573047:android:186bda61880fd0a8ed1f32",
+        "android_client_info": {
+          "package_name": "com.example.pruebauno_bolanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057689573047-2m68qhdb2cbigq2meo6p4r5tsbq9u89b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pruebauno_bolanos",
+            "certificate_hash": "768ca4ef3207ded52b4b1f86cb29bb5a6bb9a721"
+          }
+        },
+        {
+          "client_id": "1057689573047-2strnf6ps8cb15hs4ug9mrjsnvfalfi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFn8Sl9X3-vJ8ZiX3ruhonXatLTmv9umA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057689573047-2strnf6ps8cb15hs4ug9mrjsnvfalfi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
